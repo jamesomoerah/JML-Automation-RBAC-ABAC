@@ -10,15 +10,15 @@ This tutorial is simulating JML automation + RBAC/ABAC, ensuring the right peopl
 - <b>Okta</b>
 
 
-<h2>Installation Steps</h2>
+<h2>Entra ID</h2>
 <p>
-After setting up the Windows 10 VM in Azure, log in with your credentials. Open Microsoft Edge, download osTicket-Installation-Files.zip, and extract the files. You should then see the contents.
+Within Microsoft Azure, select Entra ID on the left-hand side navigation menu and select groups until you reach the overview screen displayed below, and select "New Groups".
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/29gqX2m.png" height="80%" width="80%" alt="extracted osticket zip file"/>
+<img src="https://i.imgur.com/3O9QjfQ.png" height="80%" width="80%" alt="extracted osticket zip file"/>
 </p>
 
 
