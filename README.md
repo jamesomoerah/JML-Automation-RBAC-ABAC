@@ -4,13 +4,10 @@
 This tutorial is simulating JML automation + RBAC/ABAC, ensuring the right people get the right access at the right time—automatically.<br />
 
 
-<h2>List of Prerequisites</h2>
+<h2>Stack</h2>
 
-- <b>PHP manager for IIS</b> - ensures PHP is correctly configured to run IIS
-- <b>Rewrite module </b> - facilitates URL rewriting and redirect users to URLs
-- <b>VC_redist.x86</b> (redistributable) - osTicket relies on libraries that are part of Microsoft Visual C++ and ensures the program runs smoothly
-- <b>MySQL</b> - for storing data into databases
-- <b>HeidiSQL</b> - interface for accessing MySQL 
+- <b>Entra ID</b> 
+- <b>Okta</b>
 
 
 <h2>Installation Steps</h2>
